@@ -50,7 +50,7 @@ Please download datasets and then construct them following [ForkGAN](https://git
 ```bash
 
 # Alderley (256x256)
-python main_uncer.py --dataset_dir alderley
+python main.py       --dataset_dir alderley
                      --phase train
                      --experiment_name alderley_exp
                      --batch_size 8 
@@ -63,7 +63,7 @@ python main_uncer.py --dataset_dir alderley
 ```bash
 
 # BDD100k (512x512)
-python main_uncer.py --dataset_dir bdd100k 
+python main.py       --dataset_dir bdd100k 
                      --phase train
                      --experiment_name bdd_exp
                      --batch_size 4 
@@ -78,7 +78,7 @@ python main_uncer.py --dataset_dir bdd100k
 ```bash
 
 # Alderley (256x256)
-python main_uncer.py --dataset_dir alderley
+python main.py       --dataset_dir alderley
                      --phase test
                      --experiment_name alderley_exp
                      --batch_size 1 
@@ -90,7 +90,7 @@ python main_uncer.py --dataset_dir alderley
 ```bash
 
 # BDD100k (512x512)
-python main_uncer.py --dataset_dir bdd100k
+python main.py       --dataset_dir bdd100k
                      --phase test
                      --experiment_name bdd_exp
                      --batch_size 1 
