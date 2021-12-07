@@ -49,7 +49,7 @@ Please download datasets and then construct them following [ForkGAN](https://git
 
 ```bash
 
-# Alderley (256x256)
+# Alderley (256x512)
 python main.py       --dataset_dir alderley
                      --phase train
                      --experiment_name alderley_exp
@@ -62,7 +62,7 @@ python main.py       --dataset_dir alderley
 
 ```bash
 
-# BDD100k (512x512)
+# BDD100k (512x1024)
 python main.py       --dataset_dir bdd100k 
                      --phase train
                      --experiment_name bdd_exp
