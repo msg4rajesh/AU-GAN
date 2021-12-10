@@ -113,7 +113,7 @@ If our code is helpful your research, please cite our paper:
 @InProceedings{kwak_adverse_2021},
   author = {Kwak, Jeong-gi and Jin, Youngsaeng and Li, Yuanming and Yoon, Dongsik and Kim, Donghyeon and Ko, Hanseok},
   title = {Adverse Weather Image Translation with Asymmetric and Uncertainty-aware GAN},
-  booktitle = {British Conference of Computer Vision (BMVC)},
+  booktitle = {British Machine Vision Conference (BMVC)},
   month = {November},
   year = {2021}
 }
