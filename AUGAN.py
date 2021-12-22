@@ -275,7 +275,7 @@ class AUGAN(object):
                     self.save(args.checkpoint_dir, counter)
 
     def save(self, checkpoint_dir, step):
-        model_name = "cyclegan.model"
+        model_name = "AUGAN.model"
         model_dir = "%s_%s" % (self.dataset_dir, self.image_size)
         checkpoint_dir = os.path.join(checkpoint_dir, model_dir)
 
