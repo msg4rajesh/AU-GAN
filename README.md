@@ -100,8 +100,8 @@ python main.py       --dataset_dir bdd100k
 
 ```
 
-### Pretrained model : Night to Day
-You can use a pretrained model for BDD100K dataset (size: 256x512)
+## Pretrained model : Night to Day
+You can use a pretrained model for BDD100K dataset (size: 256x512) </br>
 First, download our [pretrained model](https://drive.google.com/file/d/1QUAAzFlL5Acdo0U-U-fMWXJ0fE1FG2wj/view?usp=sharing) (zip file) </br>
 and then, unzip in folder --> ./check/your-exp-name/bdd100k_256/
 
