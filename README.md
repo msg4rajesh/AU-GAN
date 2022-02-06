@@ -114,6 +114,11 @@ More results in [paper](https://www.bmvc2021-virtualconference.com/assets/papers
 ## Uncertainty map 
 <img src="./assets/augan_uncer.png" width="800">
 
+## Demo 
+Also check the demo code implemented by Katsuya Hyodo in [Here](https://github.com/PINTO0309/PINTO_model_zoo/tree/main/251_AU-GAN). </br> 
+It is optimized for ONNX, TFLite and other formats.
+Thanks to him and his community members for the amazing work!
+
 ## **Citation**
 If our code is helpful for your research, please cite our paper:
 ```
