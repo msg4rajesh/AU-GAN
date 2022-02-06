@@ -109,7 +109,7 @@ and then, unzip in folder --> ./check/your-exp-name/bdd100k_256/
 ## Additional results
 <img src="./assets/augan_result.png" width="800">
 
-More results in [paper](https://arxiv.org/abs/2112.04283) 
+Please check more results in full [paper](https://arxiv.org/abs/2112.04283) (Arxiv)
 
 ## Uncertainty map 
 <img src="./assets/augan_uncer.png" width="800">
